@@ -9,7 +9,7 @@ public class Test {
     }
 
     public void testPush(){
-
+        System.out.println("true = " + true);
     }
 
 }
