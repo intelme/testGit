@@ -6,9 +6,10 @@ public class Test {
 
     public static void main(String[] args){
         System.out.println("args = " + args);
+        testPush();
     }
 
-    public void testPush(){
+    public static void testPush(){
         System.out.println("true = " + true);
     }
 
