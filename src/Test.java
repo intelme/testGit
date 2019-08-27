@@ -13,4 +13,8 @@ public class Test {
         System.out.println("true = " + true);
     }
 
+    public static void test2(){
+
+    }
+
 }
