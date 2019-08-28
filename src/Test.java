@@ -7,6 +7,7 @@ public class Test {
     public static void main(String[] args){
         System.out.println("args = " + args);
         testPush();
+        test1();
     }
 
     public static void testPush(){
@@ -17,4 +18,7 @@ public class Test {
         System.out.println("修改了代码");
     }
 
+    public static void test1(){
+        System.out.print("Today is monday");
+    }
 }
