@@ -1,3 +1,5 @@
+package com.demo;
+
 /**
  * @author Ranger
  * @create 2019-08-27 9:02
