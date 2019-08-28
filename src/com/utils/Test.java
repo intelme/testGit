@@ -1,5 +1,3 @@
-package com.utils;
-
 /**
  * @author Ranger
  * @create 2019-08-26 22:04
@@ -11,6 +9,8 @@ public class Test {
         Test.testPush();
         test2();
 
+        testPush();
+        test1();
     }
 
     public static void testPush(){
@@ -21,4 +21,7 @@ public class Test {
         System.out.println("修改了代码");
     }
 
+    public static void test1(){
+        System.out.print("Today is monday");
+    }
 }
